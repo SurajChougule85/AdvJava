@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Day4_JspObjectPractice">
+        <property name="context-root" value="Day4_JspObjectPractice"/>
+        <property name="java-output-path" value="/Day4_JspObjectPractice/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<%
+	String mail = request.getParameter("mail");
+	String pass= request.getParameter("pass");
+	
+	if(mail.equalsIgnoreCase("Dange")&& pass.equals("123")){
+		
+		
+		response.sendRedirect("welcome.jsp");
+		
+	}
+	
+	else{
+		response.sendRedirect("login.jsp");
+	}
+	
+	session.setAttribute("user_mail", mail);
+	session.setAttribute("user_pass", pass);
+	%>
+	
+	
+</body>
+</html>
