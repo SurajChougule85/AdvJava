@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=DayPractice2.1/C:\/Program Files\/Java\/jdk-11.0.7\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1667050574686"/>
+    <typeInfo handle="=DayPractice2.1/C:\/Users\/XIAOMI\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.4.18.Final\/hibernate-core-5.4.18.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.4.18.Final=/=/maven.scope=/compile=/&lt;org.hibernate.usertype(UserCollectionType.class[UserCollectionType" modifiers="1537" timestamp="1674465005476"/>
+    <typeInfo handle="=DayPractice2.1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dal{UserDal.java[UserDal" modifiers="513" timestamp="1674732486155"/>
+</typeInfoHistroy>
